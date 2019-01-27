@@ -8,4 +8,5 @@ def open_csv():
             if (i[1] == "0") and (i[4] == "female"):
                 count += 1
         return count
+print("Checking the number of females who died on the Titanic...")
 print(open_csv())
