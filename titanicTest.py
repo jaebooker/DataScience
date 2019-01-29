@@ -10,3 +10,11 @@ def open_csv():
         return count
 print("Checking the number of females who died on the Titanic...")
 print(open_csv())
+# import pandas as pd
+#
+# df = pd.read_csv('titanic.csv')
+# df.head()
+# df["Sex"] == "female"
+# df[df["Sex" == "female"]]
+# df[(df["Sex"] == "female") && (df["Survived"] == 1)]
+# len(df[(df["Sex"] == "female") && (df["Survived"] == 1)] )
