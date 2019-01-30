@@ -1,0 +1,3 @@
+Female deaths: Females totaled 314, with 81 who died on the Titanic, meaning there were 233 who survived. Overall female mortality was 25.7%. The percentage of females among the dead is around 15%.
+Male deaths: Males totaled 577, with 468 who died on the Titanic, meaning there were just 109 who survived, giving their overall mortality rate 81%. The percentage of males among the dead is around 85%.
+Total deaths: The total number of people on the Titanic was 892 (presumably there is one, perhaps a baby, with no gender specified). The total dead was 549. The overall mortality being 61%.
